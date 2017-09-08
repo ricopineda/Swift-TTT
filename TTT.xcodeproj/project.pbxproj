@@ -14,6 +14,8 @@
 		1F9B42A01F622EFF00CAA458 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F9B429E1F622EFF00CAA458 /* LaunchScreen.storyboard */; };
 		1F9B42AB1F622EFF00CAA458 /* TTTTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9B42AA1F622EFF00CAA458 /* TTTTests.swift */; };
 		1F9B42B61F622EFF00CAA458 /* TTTUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9B42B51F622EFF00CAA458 /* TTTUITests.swift */; };
+		1F9B42C51F62E7B700CAA458 /* circle.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1F9B42C31F62E7B700CAA458 /* circle.jpeg */; };
+		1F9B42C61F62E7B700CAA458 /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F9B42C41F62E7B700CAA458 /* cross.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		1F9B42B11F622EFF00CAA458 /* TTTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TTTUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F9B42B51F622EFF00CAA458 /* TTTUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TTTUITests.swift; sourceTree = "<group>"; };
 		1F9B42B71F622EFF00CAA458 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1F9B42C31F62E7B700CAA458 /* circle.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = circle.jpeg; path = ../../../../circle.jpeg; sourceTree = "<group>"; };
+		1F9B42C41F62E7B700CAA458 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cross.png; path = ../../../../cross.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				1F9B429C1F622EFF00CAA458 /* Assets.xcassets */,
 				1F9B429E1F622EFF00CAA458 /* LaunchScreen.storyboard */,
 				1F9B42A11F622EFF00CAA458 /* Info.plist */,
+				1F9B42C31F62E7B700CAA458 /* circle.jpeg */,
+				1F9B42C41F62E7B700CAA458 /* cross.png */,
 			);
 			path = TTT;
 			sourceTree = "<group>";
@@ -233,6 +239,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F9B42A01F622EFF00CAA458 /* LaunchScreen.storyboard in Resources */,
+				1F9B42C61F62E7B700CAA458 /* cross.png in Resources */,
+				1F9B42C51F62E7B700CAA458 /* circle.jpeg in Resources */,
 				1F9B429D1F622EFF00CAA458 /* Assets.xcassets in Resources */,
 				1F9B429B1F622EFF00CAA458 /* Main.storyboard in Resources */,
 			);
